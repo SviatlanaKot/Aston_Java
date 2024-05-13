@@ -1,3 +1,5 @@
+package TaskL6;
+
 public class Park {
     public class InfoAboutAttractions {
         private String attraction;

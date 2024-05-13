@@ -1,3 +1,5 @@
+package TaskL6;
+
 public class Employee {
 
     private String fullName;
